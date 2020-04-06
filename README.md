@@ -1,6 +1,8 @@
 # Jewels-and-Stones
 Javascript Solution .charAt and .indexOf
 
+How many of the stones S are actually jewels J?
+
 ```
 var numJewelsInStones = function(J, S) {
 
